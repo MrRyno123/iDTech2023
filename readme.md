@@ -1,5 +1,5 @@
-Guitar Chord Detector
- Add short description of project here > 
+## Guitar Chord Detector
+
  This is a model using imagenet that gets input from a webcam and detects what guitar chord is being played. It can detect Am, C, Dm, Em, F, and G.
 
 
